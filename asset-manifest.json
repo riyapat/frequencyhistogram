@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frequencyhistogram/static/css/main.e6c13ad2.css",
+    "main.js": "/frequencyhistogram/static/js/main.5a1962db.js",
+    "static/js/787.0ad4bed8.chunk.js": "/frequencyhistogram/static/js/787.0ad4bed8.chunk.js",
+    "index.html": "/frequencyhistogram/index.html",
+    "main.e6c13ad2.css.map": "/frequencyhistogram/static/css/main.e6c13ad2.css.map",
+    "main.5a1962db.js.map": "/frequencyhistogram/static/js/main.5a1962db.js.map",
+    "787.0ad4bed8.chunk.js.map": "/frequencyhistogram/static/js/787.0ad4bed8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5a1962db.js"
+  ]
+}
